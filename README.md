@@ -1,1 +1,1 @@
-# aryan2
+print("Hello world")
